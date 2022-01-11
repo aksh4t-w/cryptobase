@@ -1,5 +1,9 @@
 # CryptoBase
 
+## Snapshots
+<img src="Dashboard.png">
+<img src="Chart.png">
+
 ## Starting the Backend Server
 
 Please add a .env file and copy and paste the below configuration in "Backend" folder
