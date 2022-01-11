@@ -1,9 +1,5 @@
 # CryptoBase
 
-###### IN CASE OF ANY ERRORS WHILE STARTING THE PROJECT PLEASE FEEL FREE TO CONTACT US AT
-
-trajop2@uic.edu, awagad2@uic.edu , obusar2@uic.edu
-
 ## Team
 
 Akshat Wagadre, Olatunji Busari, Tejas Rajopadhye
